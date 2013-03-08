@@ -1,0 +1,3 @@
+pos=../../imdb.data/train/pos
+neg=../../imdb.data/train/neg
+data=data/svm.train
